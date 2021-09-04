@@ -1,0 +1,5 @@
+Buenos dias,
+
+La incidencia {0}, del usuario {1} caduca en 3 dias
+
+saludos
